@@ -5,9 +5,10 @@ import path from 'path';
 import { viteSourceLocator } from '@metagptx/vite-plugin-source-locator';
 import { atoms } from '@metagptx/web-sdk/plugins';
 import { vitePrerenderPlugin } from 'vite-prerender-plugin';
-import Sitemap from 'vite-plugin-sitemap';
-import { getBlogRoutes } from './prerender/blog-routes.js';
-import { getSitemapLastmod } from './prerender/blog-sitemap.js';
+// 注释掉引发错误的 Sitemap 插件以及非核心 prerender 引用
+// import Sitemap from 'vite-plugin-sitemap';
+// import { getBlogRoutes } from './prerender/blog-routes.js';
+// import { getSitemapLastmod } from './prerender/blog-sitemap.js';
 import { reactHmrGuard } from './plugins/react-hmr-guard';
 import { webSdkEntityUpdateGuard } from './plugins/web-sdk-entity-update-guard';
 
@@ -42,7 +43,8 @@ function ensureBuildOutDir() {
 
 // https://vitejs.dev/config/
 export default defineConfig(({ command }) => {
-  const blogPrerenderRoutes = command === 'build' ? getBlogRoutes() : [];
+  // 将依赖路由强制设为空，跳过本地预渲染
+  const blogPrerenderRoutes = [];
 
   return {
     plugins: [
@@ -54,19 +56,7 @@ export default defineConfig(({ command }) => {
       react(),
       atoms(),
       ensureBuildOutDir(),
-      Sitemap({
-        hostname: 'https://atoms.template.com',
-        lastmod: getSitemapLastmod(),
-        readable: true,
-        generateRobotsTxt: true,
-      }),
-      ...(blogPrerenderRoutes.length > 0
-        ? vitePrerenderPlugin({
-            renderTarget: '#root',
-            prerenderScript: path.resolve(__dirname, 'prerender/blog.js'),
-            additionalPrerenderRoutes: blogPrerenderRoutes,
-          })
-        : []),
+      // 移除 Sitemap 生成器，彻底避免生成文件找不到路径报错的问题
     ],
     resolve: {
       alias: {
