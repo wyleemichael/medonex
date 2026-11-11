@@ -1,0 +1,129 @@
+{
+  "status": "success",
+  "results": [
+    {
+      "status": "success",
+      "filename": "hero-kl-atrium.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywazbqcal6q/hero-kl-atrium.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywazbqcal6q/hero-kl-atrium.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywazbqcal6q/hero-kl-atrium.png",
+      "requested_size": "1024x1536",
+      "size": "1024x1536",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "kl-skyline.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywazoical6a/kl-skyline.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywazoical6a/kl-skyline.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywazoical6a/kl-skyline.png",
+      "requested_size": "1280x720",
+      "size": "1280x720",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "hospital-gleneagles.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywdg4qcal5q/hospital-gleneagles.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywdg4qcal5q/hospital-gleneagles.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywdg4qcal5q/hospital-gleneagles.png",
+      "requested_size": "1024x768",
+      "size": "1024x768",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "hospital-sunway.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa2iical5a/hospital-sunway.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa2iical5a/hospital-sunway.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa2iical5a/hospital-sunway.png",
+      "requested_size": "1024x768",
+      "size": "1024x768",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "hospital-pantai.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa2xacal7q/hospital-pantai.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa2xacal7q/hospital-pantai.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa2xacal7q/hospital-pantai.png",
+      "requested_size": "1024x768",
+      "size": "1024x768",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "hospital-kpj.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa3dycal7a/hospital-kpj.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa3dycal7a/hospital-kpj.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa3dycal7a/hospital-kpj.png",
+      "requested_size": "1024x768",
+      "size": "1024x768",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "hospital-columbia.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa3qyaal6q/hospital-columbia.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa3qyaal6q/hospital-columbia.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa3qyaal6q/hospital-columbia.png",
+      "requested_size": "1024x768",
+      "size": "1024x768",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "hospital-subang.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa35qcal6a/hospital-subang.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa35qcal6a/hospital-subang.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa35qcal6a/hospital-subang.png",
+      "requested_size": "1024x768",
+      "size": "1024x768",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "consultation.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa4kical5q/consultation.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa4kical5q/consultation.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa4kical5q/consultation.png",
+      "requested_size": "1024x768",
+      "size": "1024x768",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "airport-arrival.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa4xical5a/airport-arrival.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa4xical5a/airport-arrival.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa4xical5a/airport-arrival.png",
+      "requested_size": "1024x768",
+      "size": "1024x768",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "patient-suite.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa5eical7q/patient-suite.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa5eical7q/patient-suite.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa5eical7q/patient-suite.png",
+      "requested_size": "1024x768",
+      "size": "1024x768",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "care-coordination.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa5racal7a/care-coordination.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa5racal7a/care-coordination.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1657760/2026-11-05/zywa5racal7a/care-coordination.png",
+      "requested_size": "1024x768",
+      "size": "1024x768",
+      "size_adjustments": []
+    }
+  ],
+  "success_count": 12,
+  "failed_count": 0,
+  "running_count": 0,
+  "message": "Generated 12/12 images total"
+}
